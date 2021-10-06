@@ -1,0 +1,2 @@
+Subject: e-mail teste usando ssmtp
+Teste email body
