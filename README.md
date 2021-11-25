@@ -28,3 +28,5 @@ V1.1 - Adicionada a leitura de arquivo de configuraçãoe adicionada variáveis 
 V1.2 - Modificado os campos --mail-from e --mail-rcpt para receber os dados do arquivo sendmail.conf
 
 # To do list
+
+1 - Criar script para acrescentar o sendmail ao cron;
