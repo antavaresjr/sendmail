@@ -30,3 +30,5 @@ V1.2 - Modificado os campos --mail-from e --mail-rcpt para receber os dados do a
 # To do list
 
 1 - Criar script para acrescentar o sendmail ao cron;
+
+2 - Acrescentar ao script a criação dos diretórios e arquivos para uso no sendmail.sh
