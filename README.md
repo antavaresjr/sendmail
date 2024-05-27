@@ -1,7 +1,7 @@
 # sendmail
 # Script sendmail.sh
 #
-Envia via curl e-mail de origem para destino editáveis
+Envia via curl e-mail de origem para destinos editáveis
 
 preenchendo os campos title e subject por arquivo .txt
 #
